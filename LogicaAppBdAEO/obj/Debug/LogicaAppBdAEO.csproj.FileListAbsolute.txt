@@ -1,0 +1,6 @@
+F:\Maestria\AppWinBaseDatosAEO\LogicaAppBdAEO\obj\Debug\LogicaAppBdAEO.csproj.AssemblyReference.cache
+F:\Maestria\AppWinBaseDatosAEO\LogicaAppBdAEO\obj\Debug\LogicaAppBdAEO.csproj.CoreCompileInputs.cache
+F:\Maestria\AppWinBaseDatosAEO\LogicaAppBdAEO\bin\Debug\LogicaAppBdAEO.dll
+F:\Maestria\AppWinBaseDatosAEO\LogicaAppBdAEO\bin\Debug\LogicaAppBdAEO.pdb
+F:\Maestria\AppWinBaseDatosAEO\LogicaAppBdAEO\obj\Debug\LogicaAppBdAEO.dll
+F:\Maestria\AppWinBaseDatosAEO\LogicaAppBdAEO\obj\Debug\LogicaAppBdAEO.pdb

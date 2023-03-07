@@ -1,0 +1,28 @@
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.AssemblyReference.cache
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.SuggestedBindingRedirects.cache
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.Form1.resources
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.Properties.Resources.resources
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.GenerateResource.cache
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.CoreCompileInputs.cache
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\AppWinBaseDatosAEO.exe.config
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\AppWinBaseDatosAEO.exe
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\AppWinBaseDatosAEO.pdb
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\LogicaAppBdAEO.dll
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\LogicaAppBdAEO.pdb
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.CopyComplete
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.exe
+F:\Maestria\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.pdb
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\AppWinBaseDatosAEO.exe.config
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\AppWinBaseDatosAEO.exe
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\AppWinBaseDatosAEO.pdb
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\LogicaAppBdAEO.dll
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\bin\Debug\LogicaAppBdAEO.pdb
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.AssemblyReference.cache
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.SuggestedBindingRedirects.cache
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.Form1.resources
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.Properties.Resources.resources
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.GenerateResource.cache
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.CoreCompileInputs.cache
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.csproj.CopyComplete
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.exe
+C:\ALVARO 2023-1\MaestriaCIC\NuevasTendenciasIngenieriaSoftware\8Marzo\AppWinBaseDatosAEO\AppWinBaseDatosAEO\obj\Debug\AppWinBaseDatosAEO.pdb
