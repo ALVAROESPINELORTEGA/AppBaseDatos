@@ -242,5 +242,21 @@ namespace AppWinBaseDatosAEO
                 label1.Text = "Se presentó un problema:" + ex.Message;
                     }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                andresito.WsPrueba gato; // refencia
+                gato = new andresito.WsPrueba(); // instancia
+                                                 //gato.Sumar(1, 3);
+                label1.Text = "Suma con WS=" + gato.Sumar(1, 5);
+            }
+            catch (Exception ex)
+            {
+
+                label1.Text = "Se presentó un problema:" + ex.Message;
+            }
+        }
     }
 }
